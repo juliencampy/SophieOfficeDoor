@@ -1,0 +1,15 @@
+[availability]
+; Lundi
+1=8-9,11-12
+; Mardi
+2=8-9,11-12,14-15
+; Mercredi
+3=8-9,11-12
+; Jeudi
+4=8-9,11-12,14-15
+; Vendredi
+5=8-9,14-15
+; Samedi
+6=
+; Dimanche
+0=
